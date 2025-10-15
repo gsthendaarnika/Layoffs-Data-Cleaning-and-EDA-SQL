@@ -1,11 +1,11 @@
-# 🧹 Layoffs Data Cleaning & EDA using SQL
+#  Layoffs Data Cleaning & EDA using SQL
 
 This project focuses on cleaning and analyzing a global layoffs dataset using **MySQL**.  
 It walks through the complete process of **data cleaning** and **exploratory data analysis (EDA)** to uncover key trends and insights about layoffs across companies, industries, and years.
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 The dataset contains records of company layoffs, including fields such as company name, industry, location, country, stage, total laid off, percentage laid off, and funds raised.  
 The project is divided into two major parts:
@@ -29,7 +29,7 @@ Once the data was cleaned, exploratory queries were performed to identify patter
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 - Strengthened understanding of **data cleaning workflows** using SQL  
 - Learned how to structure SQL queries for **trend analysis**  
 - Practiced using **window functions** (`ROW_NUMBER`, `DENSE_RANK`, `SUM() OVER`) for analytical insights  
@@ -52,7 +52,7 @@ Once the data was cleaned, exploratory queries were performed to identify patter
 
 ---
 
-### 🤝 Connect with Me
+###  Connect with Me
 If you liked this project, feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/gsthendaarnika/)** or check out my other projects!  
 Always open to feedback and collaboration 👩‍💻✨
 
